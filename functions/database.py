@@ -13,6 +13,7 @@ def get_recent_messages():
         'content': 'You are interviewing the user for a job as a retail assistant.\
                     Ask short questions that are relevant to the junior position.\
                     Your name in Rachel. the user is called Ashkan. keep your answers to under 30 words.',
+        # 'content': 'تو یک ارشد برنامه نویس پایتون هستی و میخوای از من توی یک مصاحبه سوالاتی برای شغل برنامه نویس تازه کار بپرسی جواب هات رو زیر 30 کلمه بده.',
     }
 
     # initialize messages
